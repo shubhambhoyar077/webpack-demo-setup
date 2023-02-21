@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/shubhambhoyar077/webpack-demo-setup#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
     "lodash": "^4.17.21",
     "webpack-cli": "^5.0.1"
   }
